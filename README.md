@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HyunJung&fontAlign=70&fontAlignY=40&animation=twinkling)   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghyunjung&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/yanghyunjung/github-readme-stats$)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghyunjung&show_icons=true&theme=radical)  
