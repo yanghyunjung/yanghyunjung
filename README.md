@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HyunJung&fontAlign=70&fontAlignY=40&animation=twinkling)   
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HyunJung&fontAlign=70&fontAlignY=40&animation=twinkling)  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BA7BF7&size=17&lines=+I'm+HyunJung+Yang%2C+a+frontend+developer.)](https://git.io/typing-svg)
 
 <h3 align="flex-start">📌Stack</h3>
 <p align="flex-start">Technology used</p>
