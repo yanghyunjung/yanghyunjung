@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HyunJung&fontAlign=70&fontAlignY=40&animation=twinkling)  
 
-# 양현정 
+# Hello, I'm HyunJung 👋
 <h3 align="flex-start"> 소개 </h3>     
 
 - 🌝 밝고 긍정적인 에너지를 줍니다.    
