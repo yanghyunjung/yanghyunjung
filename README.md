@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   - 📩 email: yhyunjung814@gmail.com
   - 🧑‍💻 github: https://github.com/yanghyunjung
   - 📞 phone: 010-3788-4441
+</br>
  
 <h3 align="flex-start"> 소개 </h3>     
 
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
 <h3 align="flex-start">⚙️ Stack</h3>
 <p align="flex-start">∙ Technology used</p>
 <div align="flex-start"><img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img><img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img><img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img><img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"></img><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></img><img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=white"></div>
-</br>
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghyunjung&show_icons=true&theme=radical)
