@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HyunJung&fontAlign=70&fontAlignY=40&animation=twinkling)  
 
-# Hello, I'm HyunJung 👋
-- 👩‍🎓 I graduated from the Department of Computer Science
-- 🌱 I’m currently learning.. Typescript, Javascript...
+# Hello, I'm HyunJung👋         
 - 📫 How to reach me: 
   - 📩 email: yhyunjung814@gmail.com
   - 🧑‍💻 github: https://github.com/yanghyunjung
