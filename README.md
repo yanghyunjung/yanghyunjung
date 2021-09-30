@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 # Hello, I'm HyunJung👋         
 - 📫 How to reach me: 
   - 📩 email: yhyunjung814@gmail.com
-  - 🧑‍💻 github: https://github.com/yanghyunjung
-  - 📞 phone: 010-3788-4441
-</br>
+  - 🧑‍💻 github: https://github.com/yanghyunjung   
  
 <h3 align="flex-start"> 소개 </h3>     
 
