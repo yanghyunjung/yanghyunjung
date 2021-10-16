@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - Delight(한끼 추천 밥씨 서비스)    
   - 자세한 내용은 https://github.com/Team-Delight/Delight-Client   
-  - 팀 노션(Team Notion) : https://bit.ly/DelightNotion  
+  - 팀 노션(Team Notion) : https://bit.ly/Delight_notion 
 
 - 아프지멍(반려견 병원 예약 플랫폼)    
   - 자세한 내용은 https://github.com/Sparta-MungMung/mungmung_client   
