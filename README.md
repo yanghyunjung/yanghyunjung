@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <h3 align="flex-start"> 🌟 프로젝트 </h3>      
 
 - Delight(한끼 추천 밥씨 서비스)    
+  - 밥씨 이용하기 🍚 https://www.delight99.co.kr/
   - 팀 깃헙(Github) : https://github.com/Team-Delight/Delight-Client   
   - 팀 노션(Notion) : https://bit.ly/DelightNotion 
 
