@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HyunJung&fontAlign=70&fontAlignY=40&animation=twinkling)  
-
-# Hello, I'm HyunJung👋     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghyunjung&show_icons=true&theme=radical) 
+#### About Me       
+- 안녕하세요. 저는 프론트엔드 개발자 양현정입니다👋     
